@@ -1,0 +1,17 @@
+# API framework
+fastapi==0.115.0
+
+# Serverless runtime (NOT used on Vercel but needed locally if testing deploy behavior)
+uvicorn[standard]==0.30.6
+
+# Core numerical computing
+numpy==2.0.1
+
+# ML inference (ONNX runtime)
+onnxruntime==1.18.0
+
+# Authentication
+PyJWT==2.9.0
+
+# Environment variables (local dev only, safe in prod)
+python-dotenv==1.0.1
