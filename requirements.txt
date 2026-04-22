@@ -5,10 +5,10 @@ fastapi==0.115.0
 uvicorn[standard]==0.30.6
 
 # Core numerical computing
-numpy==2.0.1
+numpy==1.26.4
 
 # ML inference (ONNX runtime)
-onnxruntime==1.18.0
+onnxruntime==1.17.3
 
 # Authentication
 PyJWT==2.9.0
