@@ -2,7 +2,7 @@
 
 Last updated: 
 
-- 22-04-2026
+- 29-04-2026
 
 A production-ready machine learning API built with **FastAPI**, featuring **JWT authentication** and an **ONNX-optimized model** for fast, portable inference.
 

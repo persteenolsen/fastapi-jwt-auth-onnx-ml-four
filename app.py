@@ -14,7 +14,7 @@ from typing import Literal
 # -----------------------------
 app = FastAPI(
     title="FastAPI + JWT + ONNX ML (v4)",
-    description="22-04-2026 - House Price Prediction API with ONNX ML pipeline + JWT auth",
+    description="29-04-2026 - House Price Prediction API with ONNX ML pipeline + JWT auth",
     version="4.0.0",
     contact={
         "name": "Per Olsen",
